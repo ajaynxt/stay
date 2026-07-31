@@ -1,0 +1,9 @@
+{
+  "name": "Aurevia Retreat & Spa Demo by AJAYNXT",
+  "short_name": "Aurevia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3EFE7",
+  "theme_color": "#8C7143",
+  "icons": []
+}
